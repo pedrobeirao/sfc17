@@ -1,3 +1,12 @@
+"""
+This demo contains the model I used at Wartsila to predict Specific Fuel Consumption.
+Author:
+    Pedro Beirao
+Date:
+    05/02/2018
+"""
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
