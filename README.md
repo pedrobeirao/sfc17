@@ -14,3 +14,5 @@ The SFC17 package is structured in 3 folders:
 - "Models": contains the implementation of the core regression and GP modeling functions
 - "Tools": contains cleaning and rebinning, fuel type split, engine info, json conversion, etc.
 - "Validation": contains validation plot functions.
+
+You can interact with the SFC17 package using the Python notebook under the sfc17 folder.
