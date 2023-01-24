@@ -2,7 +2,7 @@
 
 The SFC17 model is a tool to model SFC (Specific Fuel Consumption) curves using a combination of robust linear regression and gaussian processes. It allows you to set many parameters: engine numbers, power range and step size, and allows separate modeling of different fuel types. 
 
-The SFC17 model consists of two stages:
+The SFC17 model consists of two components:
 
 - Robust linear model
 
