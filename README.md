@@ -10,7 +10,7 @@ The SFC17 model consists of two components:
 
 The data is cleaned and rebinned to 5 min intervals, and then one or 2 SFC models are fitted, depending on wehter we have 1 or 2 fuel types in the data.
 
-The SFC17 package is structured in 3 folders: 
+The SFC17 package is structured in 3 parts: 
 - "Models": contains the implementation of the core regression and GP modeling functions
 - "Tools": contains cleaning and rebinning, fuel type split, engine info, json conversion, etc.
 - "Validation": contains validation plot functions.
